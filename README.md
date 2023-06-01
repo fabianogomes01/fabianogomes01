@@ -1,7 +1,7 @@
 ### Olá! Eu sou Fabiano Gomes 👋
 
 
-- 🌱 Estudando HTML e CSS
+- 🌱 Estudando HTML, CSS, JS e PYTHON
 
 
 <div align="center">
