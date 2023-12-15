@@ -9,7 +9,8 @@ Sou apaixonado por programação!
 * 🌍  Eu moro em Recife, Pernambuco
 * 🖥️  Esse é meu portifólio: [Acesse aqui](http://https://github.com/fabianogomes01)
 * ✉️  Entre em contato: [fabianogfandrade@gmail.com](mailto:fabianogfandrade@gmail.com)
-* 🧠  Estou aprendendo desenvolvimento Full Stack
+* 🎓 Cientista da Computação
+* 🔮 Materializando ideias em códigos desde 2021!
 
 ### Habilidades
 
