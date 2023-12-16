@@ -7,7 +7,7 @@ Desenvolvedor Full Stack
 Sou apaixonado por programação!
 
 * 🌍  Eu moro em Recife, Pernambuco
-* 🖥️  Esse é meu portifólio: [Acesse aqui](http://https://github.com/fabianogomes01)
+* 🖥️  Esse é meu portifólio: [Acesse aqui](https://protifoliodefabianogomes.netlify.app/)
 * ✉️  Entre em contato: [fabianogfandrade@gmail.com](mailto:fabianogfandrade@gmail.com)
 * 🎓 Cientista da Computação
 * 🔮 Materializando ideias em códigos desde 2021!
